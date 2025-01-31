@@ -1,21 +1,45 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://171.212.81.16:65535/rtp/239.93.0.184:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://182.149.112.199:65535/rtp/239.93.0.184:5140
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://171.212.81.16:65535/rtp/239.93.1.23:6000
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://171.221.12.32:65535/rtp/239.93.1.23:6000
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://171.212.81.16:65535/rtp/239.93.1.11:2223
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://171.221.12.32:65535/rtp/239.93.1.11:2223
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
-http://171.212.81.16:65535/rtp/239.93.1.30:8124
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12
-http://171.221.12.32:65535/rtp/239.93.1.30:8124
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://171.212.81.16:65535/rtp/239.93.0.66:5140
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://171.221.12.32:65535/rtp/239.93.0.66:5140
+CCTV1,http://125.70.122.186:20189/rtp/239.93.0.184:5140
+CCTV1,http://171.216.85.190:34414/rtp/239.93.0.184:5140
+CCTV2,http://125.70.122.186:20189/rtp/239.93.1.23:6000
+CCTV2,http://171.216.85.190:34414/rtp/239.93.1.23:6000
+CCTV3,http://125.70.122.186:20189/rtp/239.93.1.11:2223
+CCTV3,http://171.216.85.190:34414/rtp/239.93.1.11:2223
+CCTV3,http://222.209.122.21:4443/rtp/239.93.1.11:2223
+CCTV4,http://125.70.122.186:20189/rtp/239.93.1.105:5140
+CCTV4,http://171.216.85.190:34414/rtp/239.93.1.105:5140
+CCTV4,http://222.209.122.21:4443/rtp/239.93.1.105:5140
+CCTV5,http://125.70.122.186:20189/rtp/239.93.1.12:2224
+CCTV5,http://125.70.122.186:20189/rtp/239.93.1.36:8004
+CCTV5,http://171.216.85.190:34414/rtp/239.93.1.12:2224
+CCTV5,http://222.209.122.21:4443/rtp/239.93.1.12:2224
+CCTV5,http://222.209.122.21:4443/rtp/239.93.1.36:8004
+CCTV6,http://125.70.122.186:20189/rtp/239.93.1.13:2226
+CCTV6,http://171.216.85.190:34414/rtp/239.93.1.13:2226
+CCTV6,http://222.209.122.21:4443/rtp/239.93.1.13:2226
+CCTV7,http://125.70.122.186:20189/rtp/239.93.1.67:5140
+CCTV7,http://171.216.85.190:34414/rtp/239.93.1.67:5140
+CCTV7,http://222.209.122.21:4443/rtp/239.93.1.67:5140
+CCTV8,http://125.70.122.186:20189/rtp/239.93.42.39:5140
+CCTV8,http://222.209.122.21:4443/rtp/239.93.42.39:5140
+CCTV9,http://125.70.122.186:20189/rtp/239.93.1.24:5140
+CCTV9,http://222.209.122.21:4443/rtp/239.93.1.24:5140
+CCTV10,http://125.70.122.186:20189/rtp/239.93.1.28:5140
+CCTV10,http://222.209.122.21:4443/rtp/239.93.1.28:5140
+CCTV11,http://125.70.122.186:20189/rtp/239.93.0.102:5140
+CCTV11,http://171.216.85.190:34414/rtp/239.93.0.102:5140
+CCTV11,http://222.209.122.21:4443/rtp/239.93.0.102:5140
+CCTV12,http://125.70.122.186:20189/rtp/239.93.1.30:8124
+CCTV12,http://171.216.85.190:34414/rtp/239.93.1.30:8124
+CCTV12,http://222.209.122.21:4443/rtp/239.93.1.30:8124
+CCTV13,http://125.70.122.186:20189/rtp/239.93.0.66:5140
+CCTV13,http://222.209.122.21:4443/rtp/239.93.0.66:5140
+CCTV14,http://125.70.122.186:20189/rtp/239.93.1.29:6000
+CCTV14,http://222.209.122.21:4443/rtp/239.93.1.29:6000
+CCTV15,http://125.70.122.186:20189/rtp/239.93.0.103:5140
+CCTV15,http://171.216.85.190:34414/rtp/239.93.0.103:5140
+CCTV15,http://222.209.122.21:4443/rtp/239.93.0.103:5140
+CCTV16,http://125.70.122.186:20189/rtp/239.93.42.54:5140
+CCTV16,http://171.216.85.190:34414/rtp/239.93.42.54:5140
+CCTV16,http://222.209.122.21:4443/rtp/239.93.42.54:5140
+CCTV17,http://125.70.122.186:20189/rtp/239.93.0.92:5140
+CCTV17,http://222.209.122.21:4443/rtp/239.93.0.92:5140
