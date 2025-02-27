@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-02-27 22:13:57,http://139.196.151.191:2051/rtp/239.45.3.145:5140
+2025-02-25 22:27:25,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://139.196.151.191:2051/rtp/239.45.3.145:5140
-CCTV-1,http://120.55.49.231:3095/rtp/233.50.201.222:5140
-CCTV-3,http://139.196.151.191:2051/rtp/239.45.1.68:5140
-CCTV-3,http://120.55.49.231:3095/rtp/233.50.201.196:5140
-CCTV-12,http://139.196.151.191:2051/rtp/239.45.3.10:5140
-CCTV-12,http://120.55.49.231:3095/rtp/233.50.201.123:5140
-CCTV-13,http://139.196.151.191:2051/rtp/239.45.1.198:5140
-CCTV-13,http://120.55.49.231:3095/rtp/233.50.201.246:5140
+CCTV-1,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://104.36.87.93:5000/1000000005000265001/ystenlive/index.m3u8
+CCTV-3,http://221.226.4.10:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://39.164.160.249:9901/tsfile/live/0012_1.m3u8
+CCTV-13,http://221.226.4.10:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
